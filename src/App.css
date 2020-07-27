@@ -1,0 +1,15 @@
+.row { 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+
+.clickable{
+    margin-left: 6px ;
+    font-weight: bold;
+    color:blue;
+    cursor: pointer;
+}
+
